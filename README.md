@@ -1,6 +1,6 @@
 # MultipleAreaOSPF
 
-Multiple Area OSPF
+Multiple Area Open Shortest Path First
 <img width="1080" height="494" alt="image" src="https://github.com/user-attachments/assets/e6cb2bac-cdf0-4058-8c86-19f5ba5b4d64" />
 
  
